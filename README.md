@@ -23,6 +23,5 @@ We worked on this project as a class.
 ## License
 MIT
 
-
 ## How to Contribute to the Project
 The best way to contribute to this project for a simple text editor app is to review the style on the application. 
